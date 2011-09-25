@@ -1,0 +1,2 @@
+A pure Python implementation of a client for memcached.  All commands and response parsing based on 
+	https://github.com/memcached/memcached/blob/master/doc/protocol.txt
